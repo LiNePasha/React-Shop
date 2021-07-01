@@ -1,5 +1,5 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+Hello, My Friends in Line-Develoeper Repo:
+Thank you for having interest in this Repo ! 
 
 To use this application, 
 
